@@ -132,4 +132,3 @@ make clean
 
 ## License
 
-[Your License Information Here]
