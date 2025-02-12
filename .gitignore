@@ -1,0 +1,19 @@
+# Ignore compiled binaries, logs, and temporary files
+*.o
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+*.bak
+*.exe
+*.out
+
+# Ignore build folders
+**/bin/
+**/obj/
+**/Debug/
+**/Project Backups/
+
+# Ignore simulation backups
+simulation/Project Backups/

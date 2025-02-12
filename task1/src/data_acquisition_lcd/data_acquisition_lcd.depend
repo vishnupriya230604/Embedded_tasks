@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1737045106 source:d:\codeblocks\task1\task1\data_acquisition_lcd\fuse.c
+	<avr/io.h>
+
